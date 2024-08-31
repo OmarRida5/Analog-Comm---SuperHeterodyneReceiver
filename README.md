@@ -22,6 +22,6 @@ This project simulates the fundamental components of an analog communication sys
 - Deliverables: The project report should include detailed explanations of each block's design, MATLAB code, and analysis results.
 
 ### Usage
-Run the MATLAB scripts provided to simulate the communication system. Follow the comments within the code for detailed steps.
+Run the MATLAB script provided to simulate the communication system. Follow the comments within the code for detailed steps.
 
 
